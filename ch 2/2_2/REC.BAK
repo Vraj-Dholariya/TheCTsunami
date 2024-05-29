@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <conio.h>
+main()
+{
+	float a,b;
+	clrscr();
+	printf("enter lenght of rectangle :");
+	scanf("%f",&a);
+	printf("enter weight of rectangle :");
+	scanf("%f",&b);
+
+
+}

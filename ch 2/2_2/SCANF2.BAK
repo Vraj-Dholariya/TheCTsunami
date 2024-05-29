@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include <conio.h>
+main()
+{
+	int a=12;
+	float pi =3.14;
+	char ch;
+	clrscr();
+	printf("enter any number :");
+	scanf("%d",&a);
+	printf("your number is\t: %d",a);
+	printf("Enter pi value :");
+	scanf("%f",&pi);
+	printf("PI value is\t : %f",pi);
+	printf("enter any character :");
+	scanf(" %c",ch);
+	printf("your character is : %c",ch);
+	getch();
+
+
+
+
+
+
+}

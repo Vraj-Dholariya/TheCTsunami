@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <conio.h>
+main()
+{
+	float a=12;
+	float b;
+	clrscr();
+	printf("enter a redius :");
+	scanf("%f",a);
+
+	printf("the area of circle is : ");
+
+
+
+       getch();
+
+}
