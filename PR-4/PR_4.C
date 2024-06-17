@@ -15,11 +15,11 @@ main()
 	{
 		if(j%2==0)
 		{
-			printf("1");
+			printf("0");
 		 }
 		 else
 		 {
-			printf("0");
+			printf("1");
 		 }
 
 	}
@@ -28,6 +28,6 @@ main()
 		printf("\n");
 
    }
-
-   getch();
+	getch();
+   
  }
