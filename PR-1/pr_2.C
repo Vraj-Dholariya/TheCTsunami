@@ -2,15 +2,15 @@
 #include <conio.h>
 main()
 {
-	int a,b=10,c=5,d=8,e;
+	int a,b;
 	clrscr();
 	printf ("Enter your base salary :");
 	scanf("%d",&a);
-	printf("HRA is \t : %d\n",b);
-	printf("DA is \t : %d\n",c);
-	printf("TA is \t : %d\n", d);
-	e=a+b+c+d;
-	printf("Rs is \t : %d",e);
+	printf("HRA is 10\n");
+	printf("DA is 5\n");
+	printf("TA is 8\n\n");
+	b=(a*10/100)+(a*5/100)+(a*8/100)+a;
+	printf("Rs is\t : %d",b);
 	getch();
 
 
