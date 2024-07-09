@@ -1,0 +1,35 @@
+Raj patel (121)
+Chemistry: 95
+Physics: 88
+Mathematics: 90
+Total: 273/300
+Percentage: 91.00%
+
+Divya sharma (122)
+Chemistry: 92
+Physics: 84
+Mathematics: 80
+Total: 256/300
+Percentage: 85.33%
+
+piyush mishra (123)
+Chemistry: 72
+Physics: 93
+Mathematics: 87
+Total: 252/300
+Percentage: 84.00%
+
+vatsal mangukiya (124)
+Chemistry: 68
+Physics: 85
+Mathematics: 96
+Total: 249/300
+Percentage: 83.00%
+
+sagar trivedi (125)
+Chemistry: 91
+Physics: 77
+Mathematics: 89
+Total: 257/300
+Percentage: 85.67%
+
