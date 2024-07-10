@@ -1,0 +1,12 @@
+Employee no: 1
+Enter Emplyee name: Dinesh padsala
+Enter your role in staff: principal
+
+Employee no: 2
+Enter Emplyee name: Dinesh padsala
+Enter your role in staff: principal
+
+Employee no: 3
+Enter Emplyee name: Dinesh padsala
+Enter your role in staff: principal
+
